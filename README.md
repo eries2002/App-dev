@@ -2,8 +2,8 @@
 My First Repository
 {
   "Series" : "Dolce Amore",
-  "Actor": "Enrique Gil",
+  "Actor": "Bentong",
   "Actress": "Liza Soberano",
-  "age": 25
+  "age": 27
   "age": 18
 }
